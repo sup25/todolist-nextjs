@@ -1,23 +1,35 @@
 Next js TO DO LIST web app
+
 use npx run dev to run the file
 
 CRUD operation
+
 Create File----->Read File----->Update File----->Delete File
 
 Methods
+
 GET Method
+
 POST Method
+
 PUT Method
+
 DELETE Method
 
+
 Storage
+
 Mongodb
 
 UI
-image.png
+
+![image](https://user-images.githubusercontent.com/47480308/234350399-aead0b79-550f-4b90-826d-6b42b2bc050b.png)
+
 
 Database UI
-image.png
+
+![image](https://user-images.githubusercontent.com/47480308/234350664-a1580391-2f79-4c22-9b91-6374a52f9e79.png)
+
 
 Operation
 
