@@ -1,5 +1,9 @@
 Next js TO DO LIST web app
 
+For vs code
+
+npm install after cloning into file
+
 use npx run dev to run the file
 
 CRUD operation
@@ -21,7 +25,8 @@ Storage
 
 Mongodb
 
-UI
+
+UserInterface
 
 ![image](https://user-images.githubusercontent.com/47480308/234350399-aead0b79-550f-4b90-826d-6b42b2bc050b.png)
 
