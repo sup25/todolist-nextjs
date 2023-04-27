@@ -9,7 +9,8 @@ export default async (req, res) => {
 	// Connect to database
 	await dbConnect();
 
-	if (method === "PUT") { //first find task by id and then return newly updated task 
+	if (method === "PUT") {
+		//first find task by id and then return newly updated task 
 		try {
 			const result = await Task.findByIdAndUpdate(
 				id,
